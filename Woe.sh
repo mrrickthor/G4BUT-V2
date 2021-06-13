@@ -17,7 +17,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-#Recoded By : MiSetya
+#Recoded By : RyckGanzz
 #Tool Unfaedah :v
 
 clear
@@ -95,6 +95,7 @@ exit
 ;;
 
 2) clear
+
 sh 2.sh
 exit
 ;;
