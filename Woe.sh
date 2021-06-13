@@ -1,3 +1,4 @@
+
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
@@ -30,19 +31,19 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo""
-echo $cy"1. Sadap WA work ni ajg :v ";
+echo $cy" 1. Sadap WA work ni ajg :v ";
 echo $pur"====================]" 
-echo $cy"2. Hack Satelit";
+echo $cy" 2. Hack Satelit";
 echo $pur"====================]" 
-echo $cy"3. Hack Listrik";
+echo $cy" 3. Hack Listrik";
 echo $pur"====================]" 
-echo $cy"4. Ngepet Online";
+echo $cy" 4. Ngepet Online";
 echo $pur"====================]" 
-echo $cy"5. NgeW Online";
+echo $cy" 5. NgeW Online";
 echo $pur"====================]" 
-echo $cy"6. Santet Online";
+echo $cy" 6. Santet Online";
 echo $pur"====================]"        
-echo $i"7. EXIT $st";
+echo $i" 7. EXIT $st";
 echo ""
 echo    $mer"╭─Pilih Nomor Berapa Ajg!!? $st " 
 read -p "╰─•>  " pil; 
